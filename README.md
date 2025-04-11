@@ -12,7 +12,7 @@
 </div>
 <p align="center" >
   <samp>
-    Hey, My name is <em>Ashish Sontakke</em> and I am a DevOps⚙️ Engineer and a Flutter Developer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of **cloud computing, containerization, automation, and mobile app development** enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools, Flutter technologies, and methodologies.🚀
+    Hey, My name is <em>Ashish Sontakke</em> and I am a DevOps⚙️ Engineer and and Automation Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of **cloud computing, containerization, automation, and mobile app development** enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools, Flutter technologies, and methodologies.🚀
   </samp>
   <br/>
 </p>
